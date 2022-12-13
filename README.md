@@ -5,4 +5,4 @@ How to Use:
 - If it asks you to replace files, Click yes
 - Patch up some things and press Compile
 
-V1 menu comming soon
+V1/Beta menu comming soon
