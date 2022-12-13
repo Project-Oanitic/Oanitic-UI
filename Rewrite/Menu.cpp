@@ -9,6 +9,7 @@
 /////////////////////////////
 // Oanitic Menu Base       //
 // Created by LoDDers      //
+// Design: RijiN V2        //
 /////////////////////////////
 
 //Code's bad, i know but hey it looks like rijin v2
