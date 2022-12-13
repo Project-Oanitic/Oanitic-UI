@@ -4,3 +4,5 @@ How to Use:
 - Drag and drop them into NaCl's source
 - If it asks you to replace files, Click yes
 - Patch up some things and press Compile
+
+V1 menu comming soon
