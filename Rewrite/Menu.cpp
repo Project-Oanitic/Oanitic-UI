@@ -77,6 +77,18 @@ void Menu::Draw()
 	gDraw.DrawString((gScreenSize.iScreenWidth / 2) - 55, 45, SColor(62, 178, 172, 255), "Welcome to Oanitic", gFonts.verdana_bold);
 	gDraw.DrawString((gScreenSize.iScreenWidth / 2) - 97, 65, SColor(62, 178, 172, 255), "Press INSERT/F11 to open the menu", gFonts.verdana_bold);
 	/* --------- */
+	
+	/* Version */
+	if (GAME_TF2)
+	{
+		if (gInts.Engine->IsInGame())
+			gDraw.DrawString(10, 10, SColor(62, 178, 172, 255), "- Public Beta 221912 -", gFonts.verdana_bold);
+		else
+			gDraw.DrawString(10, 60, SColor(62, 178, 172, 255), "- Public Beta 221912 -", gFonts.verdana_bold);
+	}
+	else
+		gDraw.DrawString(10, 10, SColor(62, 178, 172, 255), "- Public Beta 221912 -", gFonts.verdana_bold);
+	/* ------- */
 
 	if (key == VK_INSERT || key == VK_F11)
 		enabled = !enabled;
