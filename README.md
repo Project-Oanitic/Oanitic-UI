@@ -6,3 +6,4 @@ How to Use:
 - Patch up some things and press Compile
 
 V1/Beta menu comming soon
+- The only diffrences here are the fact that there is no menu content and that i removed all (or most) useless comments
