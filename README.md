@@ -7,3 +7,4 @@ How to Use:
 #### Misc
 - The only diffrences here comparing this to the original src are that there is no menu content and that i removed all (or most) useless comments
 - There is nothing diffrent in terms of installing the V1 menu to the Rewrite menu other than the fact that V1 has less files since less was changed
+- The version that was used for the UI was 0.5 BETA whilst the Rewrite uses Public Beta 221912
