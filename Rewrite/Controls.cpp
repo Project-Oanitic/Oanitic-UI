@@ -205,7 +205,7 @@ int Groupbox::GetHeight()
 
 int String::Draw(bool mouseOver)
 {
-	gDraw.DrawString(x + 18, y - 1,	SColor(180), name, gFonts.verdana_bold);
+	gDraw.DrawString(x , y - 1,	SColor(180), name, gFonts.verdana_bold);
 
 	return h;
 }
