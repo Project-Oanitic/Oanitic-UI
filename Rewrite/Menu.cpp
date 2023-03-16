@@ -59,11 +59,6 @@ void Menu::CreateGUI()
 
 				})
 				);
-
-	else
-	{
-		//leaving this blank
-	}
 }
 
 #define TAB_WIDTH 150
